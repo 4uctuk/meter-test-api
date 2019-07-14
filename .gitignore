@@ -3,3 +3,5 @@
 ################################################################################
 
 /MeterApi/obj
+/MeterApi/bin/Debug/netcoreapp2.1
+/.vs/MeterApi/v16
