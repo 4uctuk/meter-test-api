@@ -5,3 +5,4 @@
 /MeterApi/obj
 /MeterApi/bin/Debug/netcoreapp2.1
 /.vs/MeterApi/v16
+.vs/MeterApi/DesignTimeBuild/.dtbcache
